@@ -55,3 +55,7 @@
     float: right;
     padding-right: 8px;
   }
+
+  #fancy_font{
+    font-family: Pacifico;
+  }
